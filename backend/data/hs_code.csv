@@ -1,0 +1,21 @@
+hs_code,description,category,dangerous_goods,adr_un_number,notes
+8517.62,Smartphones,Electronics,No,,Standard electronics - 0% duty
+8517.12,Mobile phones,Electronics,No,,Standard electronics - 0% duty
+8471.30,Laptops/portable computers,Electronics,No,,Standard electronics - 0% duty
+8471.41,Desktop computers,Electronics,No,,Standard electronics - 0% duty
+8471.50,Computer processing units,Electronics,No,,Standard electronics - 0% duty
+8471.60,Keyboards and mice,Electronics,No,,Input devices
+8471.70,Hard drives/storage,Electronics,No,,Data storage units
+8517.70,Phone parts and accessories,Electronics,No,,Antennas cables adapters
+8507.60,Lithium-ion batteries,Electronics,Yes,UN3480,ADR Class 9 - Dangerous goods
+8507.80,Other electric batteries,Electronics,Maybe,Check specs,May require ADR
+8528.72,LED/LCD monitors,Electronics,No,,Display devices
+8528.52,TV sets,Electronics,No,,Standard electronics
+2204.21,Wine in bottles ≤2L,Beverages,No,,Excise duty applies
+2204.10,Sparkling wine,Beverages,No,,Higher excise duty
+2203.00,Beer,Beverages,No,,Excise duty applies
+0203.29,Fresh/chilled pork,Meat,No,,Veterinary certificate required
+0203.12,Ham and shoulder cuts,Meat,No,,Veterinary certificate required
+0201.10,Beef carcasses,Meat,No,,Veterinary certificate + cold chain
+3004.90,Pharmaceutical products,Medicine,No,,Import license required
+8703.23,Cars 1500-3000cc,Vehicles,No,,Type approval needed

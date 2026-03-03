@@ -1,0 +1,5 @@
+Shipment_ID,Importer,Supplier_Country,CN_Code,Weight_Tonnes,Actual_Emissions,Is_Verified,Verifier_ID
+SHP-001,GermanSteel_GmbH,India,72061000,120.5,1.95,TRUE,IN-NABCB-992
+SHP-002,AluBuild_Berlin,China,76041010,45.0,4.20,FALSE,NONE
+SHP-003,Hambur_Bolts,Vietnam,73181510,12.2,2.10,TRUE,VN-ACC-110
+SHP-004,Munich_Cement,Turkey,25232900,250.0,0.58,TRUE,TR-TÜRKAK-55

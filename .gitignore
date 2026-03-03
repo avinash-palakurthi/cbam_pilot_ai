@@ -1,0 +1,59 @@
+# ========================
+# PYTHON / BACKEND
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.Python
+
+# ========================
+# ENVIRONMENT VARIABLES
+# NEVER push API keys
+# ========================
+.env
+.env.local
+.env.production
+*.env
+
+# ========================
+# QDRANT LOCAL STORAGE
+# ========================
+qdrant_storage/
+
+# ========================
+# NODE / FRONTEND
+# ========================
+node_modules/
+dist/
+build/
+.next/
+*.local
+
+# ========================
+# IDE / EDITOR
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ========================
+# LOGS
+# ========================
+*.log
+logs/
+npm-debug.log*
+
+# ========================
+# JUPYTER NOTEBOOKS
+# ========================
+.ipynb_checkpoints/
+*.ipynb
