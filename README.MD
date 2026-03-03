@@ -22,7 +22,7 @@ This system automates that process:
 
 ## Live Demo
 
-🔗 **DEMO:** https://cbam-pilot-ai.s3-website-us-east-1.amazonaws.com
+🔗 **DEMO:** http://cbam-pilot-ai.s3-website-us-east-1.amazonaws.com
 
 ---
 
