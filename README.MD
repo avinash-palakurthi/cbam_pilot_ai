@@ -22,8 +22,7 @@ This system automates that process:
 
 ## Live Demo
 
-🔗 **Frontend:** https://your-frontend-url.com  
-🔗 **API Docs:** https://your-backend-url.com/docs
+🔗 **DEMO:** http://cbam-pilot-ai.s3-website-us-east-1.amazonaws.com
 
 ---
 
