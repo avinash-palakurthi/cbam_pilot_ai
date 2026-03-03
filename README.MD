@@ -210,4 +210,4 @@ Example:
 Specializing in EU Regulatory Automation (CBAM, ADR, ICS2)
 
 🔗 LinkedIn: www.linkedin.com/in/avinashpalakurthi0721  
-📧 Email: Palakurthiavinash07@gmail.com
+📧 Email:palakurthiavinash07@gmail.com
